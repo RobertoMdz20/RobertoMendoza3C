@@ -65,7 +65,7 @@ namespace AppFacultad
         }
         public virtual void imprimirinformacion()
         {
-            Console.WriteLine("Nombre: " + nombres + "\nApellidos: " + apellidos + "\nNúmero de identificació: " + nroid + "\nEstado Civil: " + estado_civil);
+            Console.WriteLine("Nombre: " + nombres + "\nApellidos: " + apellidos + "\nNúmero de identificación: " + nroid + "\nEstado Civil: " + estado_civil);
         }
 
     }
